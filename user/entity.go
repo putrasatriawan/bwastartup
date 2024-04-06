@@ -12,5 +12,4 @@ type User struct {
 	Role           string
 	CreatedAt      time.Time
 	UpdatedAt 	   time.Time
-
 }
